@@ -1,0 +1,15 @@
+section {
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    color: grey;
+    border-color: hotpink;
+}
